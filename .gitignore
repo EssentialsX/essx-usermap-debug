@@ -1,0 +1,19 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+
+### Mac OS ###
+.DS_Store
+
+userdata/
+usermap.bin
+uuids.bin

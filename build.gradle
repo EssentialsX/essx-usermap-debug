@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group = 'net.essentialsx'
+version = '0.1-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.spongepowered:configurate-yaml:4.1.2'
+}
